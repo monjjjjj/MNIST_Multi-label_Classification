@@ -1,7 +1,7 @@
 # MNIST_Multi-label_Classification
 ## Result
 我做出來的結果：  
-<img width="252" alt="截圖 2022-10-12 下午8 08 40" src="https://user-images.githubusercontent.com/62006029/195338845-d2246468-52d2-4ecd-acf4-ea66ed9c758e.png">
+<img width="252" alt="截圖 2022-10-12 下午8 08 40" src="https://user-images.githubusercontent.com/62006029/195338845-d2246468-52d2-4ecd-acf4-ea66ed9c758e.png">  
 與作者做出來的結果相差甚遠，作者做出來結果準確率可達99%！  
 但將作者的code拿來重新跑一次，根本無法做出一樣的結果！  
 作者做出來的結果：  
