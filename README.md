@@ -6,4 +6,4 @@ Model的最後一層要使用softmax function來做類別的預測，loss functi
 Model的最後一層要使用sigmoid function來做標籤的預測，loss function要使用binary_crossentropy。
 
 
-reference: https://clay-atlas.com/us/blog/2021/05/23/keras-en-how-to-build-a-multi-label-classification-model/
+
